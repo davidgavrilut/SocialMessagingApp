@@ -476,3 +476,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .editorconfig
+API/appsettings.Development.json
+API/appsettings.json
+client/ssl/server.crt
+client/ssl/server.key
